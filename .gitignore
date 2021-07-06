@@ -8,3 +8,13 @@
 *.vcxproj
 *.filters
 *.user
+ThreadInjector/.vs/ThreadInjector/v16/.suo
+*.exe
+*.recipe
+*.ilk
+*.log
+*.obj
+*.pdb
+*.tlog
+*.txt
+*.idb
